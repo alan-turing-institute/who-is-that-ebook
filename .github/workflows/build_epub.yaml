@@ -1,0 +1,31 @@
+---
+name: Build EPUB
+
+# Run workflow on pushes to matching branches
+on:  # yamllint disable-line rule:truthy
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build_epub:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+      - name: Install poetry
+        run: pip install poetry
+      - name: Install dependencies
+        run: poetry install
+      - name: Build epub
+        run: |
+          poetry run se build reinforcing-reg
+      - name: Upload epub
+        uses: actions/upload-artifact@v4
+        with:
+          name: reinforcing-reg.epub
+          path: who-is-that-ebook_reinforcing-reg.epub
