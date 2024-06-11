@@ -22,11 +22,12 @@
 		}
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1825">REINFORCING REG</text>
-	<text class="author" x="700" y="1925">ED CHALSTREY,</text>
-	<text class="author" x="700" y="1985">LYDIA FRANCE, GABRIEL</text>
-	<text class="author" x="700" y="2045">HANGANU, RADKA JERSAKOVA,</text>
-	<text class="author" x="700" y="2105">FEDERICO NANNI, CAMILA RANGEL</text>
-	<text class="author" x="700" y="2165">SMITH AND JAMES ROBINSON</text>
+	<path class="title-box" d="M 50,1500 1350,1500 1350,2050 50,2050 Z"/>
+	<text class="title" x="700" y="1605">REINFORCING REG</text>
+	<text class="author" x="700" y="1705">ED CHALSTREY, LYDIA FRANCE,</text>
+	<text class="author" x="700" y="1765">GABRIEL HANGANU,</text>
+	<text class="author" x="700" y="1825">RADKA JERSAKOVA,</text>
+	<text class="author" x="700" y="1885">FEDERICO NANNI, </text>
+	<text class="author" x="700" y="1945">CAMILA RANGEL SMITH,</text>
+	<text class="author" x="700" y="2005">AND JAMES ROBINSON</text>
 </svg>
