@@ -30,16 +30,15 @@
 		<dc:subject id="subject-1">AI</dc:subject>
 		<dc:subject id="subject-2">Cribbage</dc:subject>
 		<dc:subject id="subject-3">Reinforcement learning</dc:subject>
-		<dc:description id="description">An epic tale of </dc:description>
+		<dc:description id="description">An epic tale of a group embarking on a technological venture to create an advanced AI for playing cribbage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			This book contains themes of teamwork, perseverance, betrayal, and redemption, with a focus on the power of collaboration and second chances. It's a narrative about overcoming personal and external challenges to achieve a shared vision.
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://openai.com/index/gpt-4/</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/alan-turing-institute/who-is-that-ebook</meta>
 		<dc:creator id="author">Ed Chalstrey, Lydia France, Gabriel Hanganu, Radka Jersakova, Federico Nanni, Camila Rangel Smith and James Robinson</dc:creator>
 		<meta property="file-as" refines="#author">Chalstrey, Ed; France, Lydia; Hanganu, Gabriel; Jersakova, Radka; Nanni, Federico; Rangel Smith, Camila and Robinson James</meta>
