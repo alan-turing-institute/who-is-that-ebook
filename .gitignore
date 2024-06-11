@@ -163,3 +163,10 @@ cython_debug/
 
 # pyenv
 .python-version
+
+# Ignore config/cache files
+Thumbs.db
+.DS_Store
+
+# Ignore EPUBs
+*.epub

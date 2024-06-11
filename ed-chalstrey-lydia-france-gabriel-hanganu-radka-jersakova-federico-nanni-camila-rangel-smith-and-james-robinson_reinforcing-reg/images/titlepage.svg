@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 820">
+	<title>The titlepage for the Standard Ebooks edition of Reinforcing Reg, by Ed Chalstrey, Lydia France, Gabriel Hanganu, Radka Jersakova, Federico Nanni, Camila Rangel Smith and James Robinson</title>
+	<style type="text/css">
+		text{
+			font-family: "League Spartan";
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+	</style>
+	<text class="title" x="700" y="130">REINFORCING REG</text>
+	<text class="author" x="700" y="290">ED CHALSTREY,</text>
+	<text class="author" x="700" y="370">LYDIA FRANCE,</text>
+	<text class="author" x="700" y="450">GABRIEL HANGANU,</text>
+	<text class="author" x="700" y="530">RADKA JERSAKOVA,</text>
+	<text class="author" x="700" y="610">FEDERICO NANNI,</text>
+	<text class="author" x="700" y="690">CAMILA RANGEL SMITH</text>
+	<text class="author" x="700" y="770">AND JAMES ROBINSON</text>
+</svg>
