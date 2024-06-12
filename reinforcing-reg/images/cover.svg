@@ -22,9 +22,10 @@
 		}
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
-	<path class="title-box" d="M 50,1500 1350,1500 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1605">REINFORCING REG</text>
-	<text class="author" x="700" y="1705">ED CHALSTREY, LYDIA FRANCE,</text>
+	<path class="title-box" d="M 50,1450 1350,1450 1350,2050 50,2050 Z"/>
+	<text class="title" x="700" y="1545">REINFORCING REG</text>
+	<text class="author" x="700" y="1645">ED CHALSTREY, LYDIA FRANCE,</text>
+	<text class="author" x="700" y="1705">EVELINA GABASOVA,</text>
 	<text class="author" x="700" y="1765">GABRIEL HANGANU,</text>
 	<text class="author" x="700" y="1825">RADKA JERSAKOVA,</text>
 	<text class="author" x="700" y="1885">FEDERICO NANNI, </text>
